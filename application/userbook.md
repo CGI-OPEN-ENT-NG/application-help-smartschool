@@ -1,25 +1,5 @@
 # Mon compte
 
-## Accéder à mon compte
-
-Pour mettre à jour votre humeur, votre devise, votre photo et vos autres informations personnelles, vous disposez d’un espace dédié. Vous pouvez choisir de rendre visibles vos informations aux autres utilisateurs ou de les laisser invisibles.
-
-Pour accéder à votre compte, connectez-vous en saisissant votre identifiant et votre mot de passe dans la fenêtre de connexion. Cliquez sur « Connexion ».
-
-![](.gitbook/assets/m1-1-2-1-1%20%282%29.png)
-
-Cliquez sur l’avatar en haut à gauche de l'écran.
-
-![](.gitbook/assets/moncompte2d-3%20%282%29.png)
-
-Vous accédez à votre espace personnel où vous pouvez modifier vos informations : photo, coordonnées, devise, humeur, centres d’intérêt, en cliquant simplement sur le champ à modifier.
-
-![](.gitbook/assets/2018-10-19_10h52_07-2-1%20%282%29.png)
-
-![](.gitbook/assets/2018-10-19_10h52_52-2%20%282%29.png)
-
-Les enseignants ont la possibilité de choisir un nom d’affichage personnalisé, visible par les autres utilisateurs. Par défaut, ce nom d’affichage est le prénom et le nom de l’utilisateur.
-
 ## Changer mon identifiant
 
 Vous pouvez remplacer votre identifiant de connexion par un alias, en cliquant sur "Modifier" à côté de l'identifiant :
@@ -57,7 +37,7 @@ Votre photo est maintenant visible dans votre compte et par tous les utilisateur
 
 ![](.gitbook/assets/mon-compte-2-1-2-1%20%281%29%20%281%29.png)
 
-Votre photo est visible dans le fil de nouveautés des autres utilisateurs lorsque vous leur partagez un contenu mais également lorsque vous postez un message dans un forum.
+Votre photo est visible lorsque vous postez un message dans un forum.
 
 ## Changer de mot de passe
 
