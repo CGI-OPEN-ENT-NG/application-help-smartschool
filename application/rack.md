@@ -37,15 +37,13 @@ Cliquez ensuite sur « Envoyer » \(3\) pour envoyer le document. Un message de 
 
 ![](.gitbook/assets/casier-deposer-2%20%281%29%20%281%29.png)
 
-Dans « **Mes Dépôts** » vous pourrez consulter l'historique des documents déposés. Ces informations peuvent s'afficher soit en mode liste \(1\) soit en mode mosaïque \(2\). Cliquez en haut à votre droite l'icône du mode que vous préférez.  
+Dans « **Mes Dépôts** » vous pourrez consulter l'historique des documents déposés. Ces informations peuvent s'afficher soit en mode liste \(1\) soit en mode mosaïque \(2\). Cliquez en haut à votre droite l'icône du mode que vous préférez.
 
 ![](.gitbook/assets/image%20%2852%29.png)
 
 ![](.gitbook/assets/image%20%2854%29.png)
 
 Vous ne pouvez pas supprimer ces documents, ce sont les utilisateurs qui les reçoivent qui doivent les télécharger et puis les supprimer. De toute façon, ils n'occupent pas votre espace de stockage.
-
-
 
 ## Sélection et action sur les documents
 

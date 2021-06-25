@@ -1,6 +1,6 @@
 # Bibliothèque
 
-Bienvenue _s_ur la Bibliothèque, l’espace réservé aux enseignants pour mutualiser vos activités et ressources pédagogiques numériques !
+Bienvenue \_s\_ur la Bibliothèque, l’espace réservé aux enseignants pour mutualiser vos activités et ressources pédagogiques numériques !
 
 ## Présentation
 

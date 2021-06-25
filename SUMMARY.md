@@ -36,7 +36,7 @@
 * [Site web](application/website.md)
 * [Sondage](application/poll.md)
 * [Statistiques](application/stats.md)
-* [Statistiques (2D)](application/statistics.md)
+* [Statistiques \(2D\)](application/statistics.md)
 * [Vie Scolaire](application/viescolaire.md)
 * [Visioconférence](application/webconference.md)
 * [Wiki](application/wiki.md)

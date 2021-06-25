@@ -59,8 +59,6 @@ Vous pourrez ensuite vérifier que la copie est bien présente dans votre applic
 
 ![](.gitbook/assets/image%20%282%29.png)
 
-
-
 ## Publier dans la Bibliothèque
 
 La Bibliothèque est un espace de partage et d’inspiration entre enseignants.
@@ -71,8 +69,8 @@ Si vous souhaitez publier votre Wiki dans la Bibliothèque pour inspirer d’aut
 
 Vous devez ensuite renseigner les caractéristiques de votre contenu pour expliquer votre usage :
 
-*  **Titre** : le plus explicatif possible
-*  **Vignette** : carrée au format JPG ou PNG
+* **Titre** : le plus explicatif possible
+* **Vignette** : carrée au format JPG ou PNG
 * **Description et contexte pédagogique** : Décrivez l’activité, son contexte, vos intentions pédagogiques, les résultats obtenus… Dites-nous tout ! 
 * **Type d’activité** : activité en classe, à la maison, individuelle, en groupe ? 
 * **Discipline** : Quelle est la discipline concernée par l’activité
@@ -86,7 +84,7 @@ Lorsque votre Wiki est publié, vous pouvez le visualiser en cliquant sur “Voi
 
 ![](.gitbook/assets/image%20%2824%29.png)
 
-Vous aurez ensuite la possibilité de modifier les champs saisis ou de supprimer la publication de votre Wiki en cliquant sur “Modifier” depuis la page de votre activité. 
+Vous aurez ensuite la possibilité de modifier les champs saisis ou de supprimer la publication de votre Wiki en cliquant sur “Modifier” depuis la page de votre activité.
 
 ![](.gitbook/assets/image%20%2825%29.png)
 

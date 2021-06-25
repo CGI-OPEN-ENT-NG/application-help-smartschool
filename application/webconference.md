@@ -2,25 +2,25 @@
 
 ## Présentation
 
-L’application **Visioconférence** permet de créer et de partager des salles de visioconférences aux utilisateurs de la plateforme. La liste de vos salles créées est affichée et vous pouvez les gérer directement depuis cet écran. 
+L’application **Visioconférence** permet de créer et de partager des salles de visioconférences aux utilisateurs de la plateforme. La liste de vos salles créées est affichée et vous pouvez les gérer directement depuis cet écran.
 
 ![](.gitbook/assets/image%20%2830%29.png)
 
 ## Créer, gérer et partager une salle
 
-Sur la page d'accueil de l'application visioconférence, cliquez sur le bouton **« Créer une salle »** pour créer une nouvelle salle. 
+Sur la page d'accueil de l'application visioconférence, cliquez sur le bouton **« Créer une salle »** pour créer une nouvelle salle.
 
 ![](.gitbook/assets/image%20%2831%29.png)
 
-Saisissez le nom de votre salle, puis cliquez sur **« Créer »**. 
+Saisissez le nom de votre salle, puis cliquez sur **« Créer »**.
 
 ![](.gitbook/assets/image%20%2829%29.png)
 
-La salle créée apparaît dans la liste de vos salles. Elle est fermée par défaut. Pour ouvrir une salle, sélectionnez la salle en cliquant dessus \(1\) et cliquez sur **« Ouvrir la salle »** \(2\). 
+La salle créée apparaît dans la liste de vos salles. Elle est fermée par défaut. Pour ouvrir une salle, sélectionnez la salle en cliquant dessus \(1\) et cliquez sur **« Ouvrir la salle »** \(2\).
 
 ![](.gitbook/assets/image%20%2828%29.png)
 
-Une fois la salle ouverte, vous pouvez la **rejoindre** \(1\), la **fermer** \(2\) et copier le lien à partager pour **inviter des participants** à rejoindre votre salle \(3\). 
+Une fois la salle ouverte, vous pouvez la **rejoindre** \(1\), la **fermer** \(2\) et copier le lien à partager pour **inviter des participants** à rejoindre votre salle \(3\).
 
 ![](.gitbook/assets/image%20%2833%29.png)
 

@@ -16,7 +16,7 @@ Légende des couleurs :
 
 ![](.gitbook/assets/1calendaire_couleurs%20%281%29.png)
 
-#### Créer des séances et devoirs
+### Créer des séances et devoirs
 
 **Les différents accès**
 
@@ -62,7 +62,7 @@ Il est possible aussi d'ajouter :
 
 Une fois le travai validé, un **tableau récapitulatif apparaît**. ![](https://github.com/opendigitaleducation/application-help-2d/tree/e1bd9f38451e0401e6458a70c33ef0b5e0509279/application/.gitbook/assets/img_cgi/diary/3recap_travail.PNG)
 
-#### La recherche
+### La recherche
 
 En tant qu'enseignant il est possible d'afficher les cahiers de texte d'autres enseignants et d'autres classes. Il faut pour cela choisir l'enseignant ou la classe dans **les champs de recherche situés en haut de la page.**
 
@@ -86,7 +86,7 @@ En cliquant dessus, **la séance ou le travail s'ouvre dans une fenêtre et il e
 
 Il est possible dans ce module d'anticiper son travail de saisie des séances et éventuellement travail à faire. Au sein de Progressions, l'enseignant peut créer des dossiers et y ranger des séances non publiées, qu'il pourra ensuite glisser déposer dans la vue calendaire.
 
-#### Créer un dossier
+### Créer un dossier
 
 La création d'un dossier se fait depuis le **bouton "Créer un dossier"** dans l'arborescence à gauche.
 
@@ -94,7 +94,7 @@ La création d'un dossier se fait depuis le **bouton "Créer un dossier"** dans 
 
 **Ce dossier correspond à une progression** dans laquelle, il est alors possible de créer des séances en anticipation.
 
-#### Créer une séance
+### Créer une séance
 
 Pour créer une séance, il suffit de **cliquer sur le bouton "Créer une séance"en haut à droite.**
 

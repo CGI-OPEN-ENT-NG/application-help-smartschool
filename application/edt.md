@@ -22,13 +22,13 @@ Attention, **si l'enseignant est multi-établissement**, par défaut lors de la 
 
 **Plusieurs profils cohabitent** au sein de l'équipe de vie scolaire. Les utilisateurs appartenant au **groupe manuel CPE** auront les mêmes droits que les enseignants. Ceux appartenant au **groupe Admin-VieScolaire** pourront gérer les cours.
 
-**Les champs de recherche :** 
+**Les champs de recherche :**
 
 Les champs de recherche "enseignants" permettent de sélectionner un enseignant pour en afficher son emploi du temps. Il est possible de **cumuler plusieurs recherches.**
 
 Le **champ de recherche "classes" active les filtres** disponibles sur la gauche.
 
-**Les filtres :** 
+**Les filtres :**
 
 Les filtres sont rangés dans **l'ordre alphabétique** et affichent toutes les classes et tous les groupes de l'établissement.
 

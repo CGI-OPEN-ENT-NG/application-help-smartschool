@@ -165,8 +165,6 @@ L’éditeur d’images permet de :
 
 ![](.gitbook/assets/editeur-actions-2-1-1%20%281%29%20%281%29.png)
 
-
-
 ## Intégrer un contenu multimédia
 
 Dans les différentes applications \(blog, actualités, messagerie, cahier de textes, wiki …\), vous pouvez intégrer des contenus multimédia comme des exercices interactifs, des vidéos, des murs collaboratifs, etc. Pour cela, rendez-vous sur une application, cliquez sur le bouton “Créer” et accédez à l’éditeur de texte. Cliquez sur l’icône multimédia présente dans la barre d’édition.
@@ -175,7 +173,7 @@ Dans les différentes applications \(blog, actualités, messagerie, cahier de te
 
 **Intégrer un lien à partir d'une url:**
 
- Différentes ressources sont proposées par défaut \(LearningApps, Educaplay, YouTube, Dailymotion, Vimeo, Libcast...\) et peuvent être intégrées à un service en recopiant leur adresse internet \(ex : [https://learningapps.org/1459550](https://learningapps.org/1459550)\).
+Différentes ressources sont proposées par défaut \(LearningApps, Educaplay, YouTube, Dailymotion, Vimeo, Libcast...\) et peuvent être intégrées à un service en recopiant leur adresse internet \(ex : [https://learningapps.org/1459550](https://learningapps.org/1459550)\).
 
 a\) Copiez d’abord l’adresse URL du contenu
 
@@ -183,7 +181,7 @@ a\) Copiez d’abord l’adresse URL du contenu
 
 b\) Intégrez la ressource dans une application
 
- Cliquez sur l’icône du type de contenu à insérer, \(LearningApps dans notre exemple\).
+Cliquez sur l’icône du type de contenu à insérer, \(LearningApps dans notre exemple\).
 
 ![](.gitbook/assets/iconela-neo.png)
 
@@ -193,22 +191,20 @@ Une nouvelle fenêtre s’ouvre, dans laquelle vous pouvez coller l’adresse de
 
 La ressource est maintenant intégrée à votre contenu !
 
-#### 
-
 **Ajouter une ressource dont le type n’est pas proposé par défaut**
 
 Si le type de la ressource à intégrer n’est pas proposé par défaut, il faudra coller le code d’intégration.
 
 _**a\) Exemples de contenus à intégrer via le code d'intégration \(embed ou iframe\)**_
 
-Il existe de nombreuses ressources internet que vous pouvez intégrer sur votre réseau éducatif si le code d’intégration lié est proposé. Ce code se trouve souvent derrière le symbole : **&lt;/&gt;** mais on peut le trouver également derrière un bouton "Partager" ou des icônes de partage. 
+Il existe de nombreuses ressources internet que vous pouvez intégrer sur votre réseau éducatif si le code d’intégration lié est proposé. Ce code se trouve souvent derrière le symbole : **&lt;/&gt;** mais on peut le trouver également derrière un bouton "Partager" ou des icônes de partage.
 
 Voici quelques exemple de sites qui proposent des ressources intéressantes que vous pouvez intégrer sur les contenus partagés :
 
 * [Padlet ](https://padlet.com/my/dashboard)propose des murs collaboratifs ;
 * [Geogebra](https://www.geogebra.org/) fournit, pour tous les niveaux d'éducation, des ressources de mathématiques dynamiques qui associent géométrie, algèbre, tableur, grapheur, statistiques et calcul infinitésimal
 * [Corpus](https://www.reseau-canope.fr/corpus/) permet d'explorer le corps humain dans toutes ses dimensions au travers d'une interface 3D, de vidéos et de vidéos enrichies.
-*  [Scratch ](https://scratch.mit.edu/)pour l’apprentissage des élèves au codage informatique.
+* [Scratch ](https://scratch.mit.edu/)pour l’apprentissage des élèves au codage informatique.
 * [OpenStreetMap](http://www.openstreetmap.fr/) : Le wiki cartographique mondial qui crée et fournit des données géographiques sous licence libre.
 * Vous pouvez également intégrer des contenus interactif \(Présentations, Infographies, Dossiers, Vidéos-Présentations, ePosters, Quiz,...\) créés sur [Genially](https://www.genial.ly/fr)
 

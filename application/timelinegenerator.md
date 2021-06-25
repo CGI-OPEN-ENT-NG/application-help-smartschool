@@ -79,8 +79,8 @@ Si vous souhaitez publier votre frise chronologique dans la bibliothèque pour i
 
 Vous devez ensuite renseigner les caractéristiques de votre contenu pour expliquer votre usage :
 
-*  Titre : le plus explicatif possible
-*  Vignette : carrée au format JPG ou PNG
+* Titre : le plus explicatif possible
+* Vignette : carrée au format JPG ou PNG
 * Description et contexte pédagogique : Décrivez l’activité, son contexte, vos intentions pédagogiques, les résultats obtenus… Dites-nous tout ! 
 * Type d’activité : activité en classe, à la maison, individuelle, en groupe ? 
 * Discipline : Quelle est la discipline concernée par l’activité
@@ -94,7 +94,7 @@ Lorsque votre frise chronologique est publiée, vous pouvez la visualiser en cli
 
 ![](.gitbook/assets/2020-05-20_16h50_53.png)
 
-Vous aurez ensuite la possibilité de modifier les champs saisis ou de supprimer la publication de votre frise chronologique en cliquant sur “Modifier” depuis la page de votre activité. 
+Vous aurez ensuite la possibilité de modifier les champs saisis ou de supprimer la publication de votre frise chronologique en cliquant sur “Modifier” depuis la page de votre activité.
 
 ![](.gitbook/assets/2020-05-20_16h51_05.png)
 
@@ -138,6 +138,4 @@ Vous devez renseigner plusieurs informations pour créer un évènement :
 * Une fois l’événement créé, il apparaît dans la frise chronologique. Le tour est joué !
 
 ![](.gitbook/assets/f8-4%20%282%29.png)
-
-## 
 

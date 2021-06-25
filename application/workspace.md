@@ -8,7 +8,7 @@
 
 ![](.gitbook/assets/neo-espacedoc.png)
 
-L’application Espace documentaire d’un utilisateur est composée de 4 sections : ****
+L’application Espace documentaire d’un utilisateur est composée de 4 sections : _\*\*_
 
 **Documents** **personnels** : cette section comporte les documents que vous avez importés dans l'espace documentaire mais que vous n'avez pas partagés à d'autres utilisateurs. Vous pouvez charger tous types de fichiers depuis votre ordinateur, qu’il s’agisse de documents texte ou PDF, d’images, de vidéos ou d’extraits audio.
 
@@ -16,11 +16,11 @@ L’application Espace documentaire d’un utilisateur est composée de 4 sectio
 
 **Documents ajoutés dans les applis** : Vous retrouverez ici tous les fichiers que vous avez ajouté dans d’autres applis \(par exemple image d’un billet de blog\).
 
-**Corbeille** : Cette section contient tous les documents que vous avez supprimés des autres sections. Les documents présents dans la corbeille sont comptabilisés dans l'espace de stockage utilisé. 
+**Corbeille** : Cette section contient tous les documents que vous avez supprimés des autres sections. Les documents présents dans la corbeille sont comptabilisés dans l'espace de stockage utilisé.
 
 ## Naviguer dans mon Espace Documentaire
 
-Trois types d'affichage de vos documents sont disponibles en haut à droite de l'espace documentaire  : un affichage sous forme de vignettes \(A\), un affichage détaillé ou un carrousel d'images \(C\) qui permet de faire défiler automatiquement et manuellement les images du dossier sélectionné.
+Trois types d'affichage de vos documents sont disponibles en haut à droite de l'espace documentaire : un affichage sous forme de vignettes \(A\), un affichage détaillé ou un carrousel d'images \(C\) qui permet de faire défiler automatiquement et manuellement les images du dossier sélectionné.
 
 ![](.gitbook/assets/neo-espacedoc_caroussel2.png)
 
@@ -46,7 +46,7 @@ Pour importer un document dans votre espace de stockage personnel ou dans un dos
 
 ![](.gitbook/assets/neo-espacedoc_importer.png)
 
-N.B. : _Le bouton IMPORTER apparait lorsque la section des "Documents personnels" ou celle des "Documents partagés" est sélectionnée. En cas de positionnement sur la section "Documents partagés", une fenêtre de partage s'ouvrira automatiquement suite à l'import de document._ 
+N.B. : _Le bouton IMPORTER apparait lorsque la section des "Documents personnels" ou celle des "Documents partagés" est sélectionnée. En cas de positionnement sur la section "Documents partagés", une fenêtre de partage s'ouvrira automatiquement suite à l'import de document._
 
 Dans la nouvelle fenêtre, suivez les étapes suivantes :
 
@@ -59,7 +59,7 @@ Dans la nouvelle fenêtre, suivez les étapes suivantes :
 
 ![](.gitbook/assets/fenetre-import-full-1-1-1%20%281%29%20%281%29.png)
 
-Il est possible d’**importer un fichier compressé** \(.zip\) et de choisir au moment de l’importation de conserver ou non la compression. 
+Il est possible d’**importer un fichier compressé** \(.zip\) et de choisir au moment de l’importation de conserver ou non la compression.
 
 ![](.gitbook/assets/esp-doc-neo-1.png)
 
@@ -106,7 +106,7 @@ Le dossier se trouve maintenant à l’emplacement choisi.
 
 ## Télécharger un document
 
-Vous souhaitez récupérer, sur votre poste de travail, un ou plusieurs documents présents dans votre espace documentaire,  rien de plus simple : 
+Vous souhaitez récupérer, sur votre poste de travail, un ou plusieurs documents présents dans votre espace documentaire, rien de plus simple :
 
 1. Sélectionner dans votre espace documentaire, le ou les documents à télécharger.
 2. Cliquer sur le bouton TÉLÉCHARGER présent dans le menu du bas qui s'affiche.
@@ -114,7 +114,7 @@ Vous souhaitez récupérer, sur votre poste de travail, un ou plusieurs document
 
 ![](.gitbook/assets/neo-espacedoc_telecharger.png)
 
-Vous pouvez également télécharger un document ouvert dans la visionneuse de document : 
+Vous pouvez également télécharger un document ouvert dans la visionneuse de document :
 
 ![](.gitbook/assets/neo-espacedoc_telechargervisioneuse.png)
 

@@ -104,8 +104,8 @@ Si vous souhaitez publier votre carte mentale dans la bibliothèque pour inspire
 
 Vous devez ensuite renseigner les caractéristiques de votre contenu pour expliquer votre usage :
 
-*  Titre : le plus explicatif possible
-*  Vignette : carrée au format JPG ou PNG
+* Titre : le plus explicatif possible
+* Vignette : carrée au format JPG ou PNG
 * Description et contexte pédagogique : Décrivez l’activité, son contexte, vos intentions pédagogiques, les résultats obtenus… Dites-nous tout ! 
 * Type d’activité : activité en classe, à la maison, individuelle, en groupe ? 
 * Discipline : Quelle est la discipline concernée par l’activité
@@ -119,7 +119,7 @@ Lorsque votre carte mentale est publiée, vous pouvez la visualiser en cliquant 
 
 ![](.gitbook/assets/2020-05-20_17h14_39.png)
 
-Vous aurez ensuite la possibilité de modifier les champs saisis ou de supprimer la publication de votre carte mentale en cliquant sur “Modifier” depuis la page de votre activité. 
+Vous aurez ensuite la possibilité de modifier les champs saisis ou de supprimer la publication de votre carte mentale en cliquant sur “Modifier” depuis la page de votre activité.
 
 ![](.gitbook/assets/image%20%2821%29.png)
 

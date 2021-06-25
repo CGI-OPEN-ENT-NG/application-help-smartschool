@@ -4,7 +4,7 @@ Paramétrer les modules de vie scolaire pour votre établissement.
 
 ## Établissement : paramétrages année, périodes et plages horaires
 
-**Paramétrage année scolaire :** 
+**Paramétrage année scolaire :**
 
 Dans le menu **Paramétrage année scolaire**, vous définissez les dates de début et de fin de l'année scolaire.
 
@@ -12,9 +12,7 @@ Dans le menu **Paramétrage année scolaire**, vous définissez les dates de dé
 
 Il est aussi possible d'effectuer ce paramétrage depuis l'onglet **Emploi Du Temps**.
 
-
-
-**Paramétrage des périodes :** 
+**Paramétrage des périodes :**
 
 Pour configurer les périodes par classe, suivez les étapes suivantes : 1. Cliquez sur le menu « Paramétrage des périodes » \(1\)
 
@@ -28,8 +26,6 @@ Il est possible de de choisir le type de période : **semestre** ou **trimestre*
 
 ![](.gitbook/assets/1_04_période_évaluation%20%281%29.png)
 
-### 
-
 **Paramétrage des périodes d'exclusions**
 
 Dans le menu **Paramétrage des périodes d'exclusion**, vous définissez les périodes de fermeture de l'établissement \(jours fériés\) qui doivent être pris en compte dans les différentes applications de vie scolaire.
@@ -37,8 +33,6 @@ Dans le menu **Paramétrage des périodes d'exclusion**, vous définissez les p�
 ![](.gitbook/assets/1_05_periode_exclusion%20%281%29.png)
 
 Il est aussi possible d'effectuer ce paramétrage depuis l'onglet **Emploi Du Temps**.
-
-
 
 **Plages horaires**
 
@@ -56,9 +50,7 @@ Les services sont affichés et regroupés par **matière** \(1\), par **groupes*
 
 ![](.gitbook/assets/1_07_liste_services%20%281%29.png)
 
-#### 
-
-#### Ajouter un co-enseignant
+### Ajouter un co-enseignant
 
 Vous pouvez ajouter un co-enseignant sur l'un des services en cliquant sur l'icône correspondant \(4\).
 
@@ -72,9 +64,7 @@ Après validation, le co-enseignant est ajouté au service sélectionné. Pour l
 
 ![](.gitbook/assets/1_10_ajout_co-enseignant3%20%281%29.png)
 
-#### 
-
-#### Ajouter un remplaçant
+### Ajouter un remplaçant
 
 Vous pouvez ajouter un remplaçant sur l'un des services en cliquant sur l'icône correspondant \(7\).
 
@@ -88,9 +78,7 @@ La **date de fin de saisie** permet à l'enseignant remplaçant de continuer à 
 
 Après l'ajout, le remplaçant apparaît dans la colonne **remplaçant** du service sélectionné.
 
-#### 
-
-#### Ajouter / attribuer une sous-matière
+### Ajouter / attribuer une sous-matière
 
 Vous pouvez ajouter une sous-matière en cliquant sur l'icône correspondant \(1\).
 
@@ -133,7 +121,7 @@ La modification sera appliquée pour tous les utilisateurs de l'établissement.
 
 Il est possible de masquer ou d’afficher certains éléments sur le Bilan de fin de cycle.
 
-#### Niveau calculé du BFC par domaines
+### Niveau calculé du BFC par domaines
 
 Cliquez sur le menu **« Visibilité du niveau calculé du BFC »**
 
@@ -143,7 +131,7 @@ Si vous choisissez d'afficher le niveau, vous aurez le résultat suivant :
 
 ![](.gitbook/assets/2_07_visibiliteBFC3%20%281%29.png)
 
-#### Barème DNB
+### Barème DNB
 
 Cliquez sur le menu **« Visibilité du barème DNB affiché sur le BFC »** pour choisir d'afficher ou de masquer le barème DNB.
 
@@ -169,7 +157,7 @@ Pour chaque item, vous pouvez \(4\) :
 * **le modifier** : modification du libellé uniquement
 * **afficher les domaines rattachés \(5\)**
 
-Enfin, il est tout à fait possible de **créer un nouvel item** de compétence dans un élément signifiant **\(6\)** : 
+Enfin, il est tout à fait possible de **créer un nouvel item** de compétence dans un élément signifiant **\(6\)** :
 
 ![](.gitbook/assets/2_11_ref_comp2%20%281%29.png)
 
@@ -217,7 +205,7 @@ Le liste des services est affichée et organisée de la même manière que sur l
 
 ![](.gitbook/assets/2_18_modalites_services%20%281%29.png)
 
-#### Modification du coefficient et des modalités d'un service
+### Modification du coefficient et des modalités d'un service
 
 Pour changer le coefficient d'un service, changez la valeur de la colonne **coefficient** \(1\). Pour en modifier la modalité, changez la valeur de la colonne **modalité** \(2\) et pour le rendre évaluable ou non, cochez ou décochez la case de la colonne **évaluable** \(3\).
 
@@ -242,7 +230,7 @@ Légende des modalités :
 * R : enseignement religieux
 * X : mesure spécifique
 
-#### Modification de la visibilité d'un enseignant
+### Modification de la visibilité d'un enseignant
 
 ![](.gitbook/assets/2_22_modalites_services5%20%281%29.png)
 
@@ -304,7 +292,7 @@ Avant de paramétrer spécifiquement le module Présences, il faut paramétrer l
 
 Cela va se faire à différents endroits de l'ENT.
 
-#### Les créneaux horaires
+### Les créneaux horaires
 
 _**Le module Présences ne peut fonctionner correctement sans une définition des créneaux horaires applicables à tout l'ENT.**_
 
@@ -322,7 +310,7 @@ Pour créer une grille horaire, **cliquer sur "Créer une grille"** puis **défi
 
 Une fois vos créneaux définis, retourner dans Mes Applis dans l'ENT et sélectionner le module **Paramétrages Vie Scolaire.**
 
- ![](.gitbook/assets/uni-parametres%20%289%29.png)
+![](.gitbook/assets/uni-parametres%20%289%29.png)
 
 Puis dans **l'onglet "Etablissement"**, choisir **Plage Horaire** et là dans le menu déroulant, **sélectionner la grille horaire** que vous venez de créer.
 
@@ -381,7 +369,7 @@ Dans le module de Paramétrage Vie Scolaire, passer à **l'onglet Présences.**
 
 Dans un premier temps, **activer le module** si ce n'est pas déjà fait.
 
-Si vous le souhaitez, un **bouton d'initialisation** vous permet de remplir tous les paramètres avec des valeurs par défaut que vous pourrez ensuite modifier. Ce bouton n'est valable qu'une fois. 
+Si vous le souhaitez, un **bouton d'initialisation** vous permet de remplir tous les paramètres avec des valeurs par défaut que vous pourrez ensuite modifier. Ce bouton n'est valable qu'une fois.
 
 ![](.gitbook/assets/3-01initialisation_parametres%20%281%29.png)
 
@@ -443,17 +431,13 @@ C'est ici que vous allez **définir le moment à partir duquel une alerte est d�
 
 Pour l'unité des absences \(créneaux, demi-journée ou journée\), cela se paramètre au niveau des statistiques. L'unité de comptage des absences sera donc celle définie plus bas.
 
-
-
-**Présences :** 
+**Présences :**
 
 C'est ici que se paramètrent les **lieux et moments pour lesquels il sera possible de déclarer des présences**.
 
 Comme pour les motifs d'absences, il sera possible de modifier avec le crayon au survol, de supprimer ou de cacher l'intitulé dans le menu déroulant \(si l'item a déjà été utilisé\).
 
 ![](.gitbook/assets/3-06presences%20%281%29.png)
-
-### 
 
 **Incidents**
 
@@ -467,31 +451,29 @@ De nombreux paramètres sont modifiables dans cette rubrique :
 
 De façon générale, tout fonctionne comme les absences. Une fois un type ou un lieu défini, il est modifiable, peut être supprimé ou caché \(en fonction de son utilisation préalable\).
 
-
-
 **Punitions & Sanctions**
 
 Les punitions et les sanctions donnent lieu à des formulaires différenciés en fonction de 4 catégories. Ainsi avant de définir un type, vous devez choisir une catégorie. En cliquant sur chacune catégorie, vous voyez apparaître à droite un aperçu des différents formulaires disponibles dans le module.
 
-#### _Le formulaire type Blâme_
+### _Le formulaire type Blâme_
 
-Il s'agit du formulaire le plus simple. Vous **n'avez qu'un menu déroulant** avec le type de punition ou de sanction à donner . 
+Il s'agit du formulaire le plus simple. Vous **n'avez qu'un menu déroulant** avec le type de punition ou de sanction à donner .
 
 ![](.gitbook/assets/3-10categorie_blame%20%281%29.png)
 
-#### _Le formulaire type Exclusion_
+### _Le formulaire type Exclusion_
 
-Celui-ci propose en plus **une période sur laquelle la punition ou la sanction va être appliquée**. 
+Celui-ci propose en plus **une période sur laquelle la punition ou la sanction va être appliquée**.
 
 ![](.gitbook/assets/3-11categorie_exclusion%20%281%29.png)
 
-#### _Le formulaire type Devoir supplémentaire_
+### _Le formulaire type Devoir supplémentaire_
 
-Il est possible ici d'ajouter une consigne de devoir. 
+Il est possible ici d'ajouter une consigne de devoir.
 
 ![](.gitbook/assets/3-12categorie_devoir%20%281%29.png)
 
-#### _Le formulaire type Retenue_
+### _Le formulaire type Retenue_
 
 Ce formulaire permet de sélectionner **une date et des créneaux horaires pour la retenue ainsi qu'un lieu**.
 
@@ -501,13 +483,11 @@ Une fois que vous avez sélectionné la catégorie, vous pouvez alors **choisir 
 
 Vous pouvez ensuite saisir un libellé qui convient pour votre établissement et votre type de punition/sanction est créé.
 
-
-
 **Publipostage**
 
 Dans cette section, il est possible de rédiger les modèles de messages à envoyer aux familles.
 
-#### _Publipostage Mail_
+### _Publipostage Mail_
 
 Afin de définir un premier modèle de mail, **indiquer son titre**, puis dans le corps du message, **saisir le contenu du mail à envoyer**. Afin qu'il soit générique, des **codes existent** à droite qui seront remplacés lors du publipostage par les valeurs correspondantes à chaque élève. **Au clic sur le code, il est possible de le copier** pour ensuite le coller dans l'éditeur à l'aide du **raccourcis de touches CTRL+V**.
 
@@ -515,7 +495,7 @@ Afin de définir un premier modèle de mail, **indiquer son titre**, puis dans l
 
 Le récapitulatif, sous forme de tableau, présente la totalité des événements que vous souhaitez publiposter sur la période que vous avez sélectionné.
 
-Voici un exemple de rendu de mail : 
+Voici un exemple de rendu de mail :
 
 ![](.gitbook/assets/3-09publipostage_mail_result%20%281%29.png)
 
@@ -523,7 +503,7 @@ La liste des modèles que vous avez renseignés se trouve en dessous. Il suffit 
 
 ![](.gitbook/assets/3-08publipostage_mail_liste%20%281%29.png)
 
-#### _Publipostage SMS_
+### _Publipostage SMS_
 
 Le concept est le même pour les SMS mais les contraintes sont plus importantes.
 

@@ -17,11 +17,11 @@ Dans la fenêtre d’édition de site, renseigner les informations suivantes :�
 
 ![](.gitbook/assets/neo-formcrea1.png)
 
-5. Choisissez un modèle de site parmi plusieurs maquettes.‌
+1. Choisissez un modèle de site parmi plusieurs maquettes.‌
 
 ![](.gitbook/assets/neo-formcrea3.png)
 
-6. Cliquer sur le bouton Enregistrer pour valider et lancer la création de votre site web‌
+1. Cliquer sur le bouton Enregistrer pour valider et lancer la création de votre site web‌
 
 _N.B. : La création du site peut prendre plusieurs minutes \(5 à 10 minutes\), pendant ce délai l’icône est présente dans l’application mais le site n’est pas accessible._
 

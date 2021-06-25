@@ -54,33 +54,30 @@ Pour évaluer les élèves suivez les étapes suivantes :
 
 ![](.gitbook/assets/05_evaluer-un-eleve-1%20%281%29.jpg)
 
-2. Renseigner **les critères \(2\)**
+1. Renseigner **les critères \(2\)**
 
 ![](.gitbook/assets/evaluer-un-eleve-2-3-1-1%20%281%29%20%281%29%20%281%29.jpg)
 
 Le nombre des compétences ajoutées et le pourcentage d’avancement d’un devoir \(noté ou avec des compétences à évaluer\) est visible directement sur cet écran.
 
-3. Cliquer sur le **devoir à évaluer \(3\)**
+1. Cliquer sur le **devoir à évaluer \(3\)**
 
 ![](.gitbook/assets/07_evaluer-un-eleve-4%20%281%29.jpg)
 
 \*\*\*\*
 
-4. Le **détail de l’évaluation** est disponible sur la partie gauche de l’écran **\(4\)**
+1. Le **détail de l’évaluation** est disponible sur la partie gauche de l’écran **\(4\)**
+2. Si l’évaluation numérique a été activée, il est possible de **mettre des notes à chaque élève dans la colonne résultat** \(possibilité d’utiliser le clavier pour se déplacer d’élèves en élèves\) **\(5\)**
+3. Si le devoir possède une ou plusieurs compétences, il est possible **d’évaluer les compétences** des élèves avec les pastilles \(possibilité d’utiliser le clavier avec les touches de 0 à 4 pour évaluer les compétences\) **\(6\)**
+4. ![](.gitbook/assets/pastille-grise%20%281%29.png) _\*\*_Pastille grise : Compétence non évaluée
+5. ![](.gitbook/assets/pastille-rouge%20%281%29.png) Pastille rouge : Maitrise insuffisante
+6. ![](.gitbook/assets/pastille-orange%20%281%29.png) Pastille orange : maitrise fragile
+7. ![](.gitbook/assets/pastille-jaune%20%281%29.png) Pastille jaune : maitrise satisfaisante
+8. ![](.gitbook/assets/pastille-verte%20%281%29.png) Pastille verte : très bonne maitrise
 
-5. Si l’évaluation numérique a été activée, il est possible de **mettre des notes à chaque élève dans la colonne résultat** \(possibilité d’utiliser le clavier pour se déplacer d’élèves en élèves\) **\(5\)**
+   Le détail des compétences est disponible sur la partie droite de l’écran
 
-6.	Si le devoir possède une ou plusieurs compétences, il est possible **d’évaluer les compétences** des élèves avec les pastilles \(possibilité d’utiliser le clavier avec les touches de 0 à 4 pour évaluer les compétences\) **\(6\)**
-
-* ![](.gitbook/assets/pastille-grise%20%281%29.png) ****Pastille grise : Compétence non évaluée
-* ![](.gitbook/assets/pastille-rouge%20%281%29.png) Pastille rouge : Maitrise insuffisante
-* ![](.gitbook/assets/pastille-orange%20%281%29.png) Pastille orange : maitrise fragile
-* ![](.gitbook/assets/pastille-jaune%20%281%29.png) Pastille jaune : maitrise satisfaisante
-* ![](.gitbook/assets/pastille-verte%20%281%29.png) Pastille verte : très bonne maitrise
-
-    Le détail des compétences est disponible sur la partie droite de l’écran
-
-7. Une **appréciation** peut être indiquée dans le champ **Appréciation \(7\)**. Si le devoir comprend beaucoup de compétences, l’appréciation est accessible via le bouton :  ![](.gitbook/assets/evaluer-un-eleve-3-3-1%20%281%29%20%281%29%20%281%29.jpg)
+9. Une **appréciation** peut être indiquée dans le champ **Appréciation \(7\)**. Si le devoir comprend beaucoup de compétences, l’appréciation est accessible via le bouton : ![](.gitbook/assets/evaluer-un-eleve-3-3-1%20%281%29%20%281%29%20%281%29.jpg)
 
 Des **exports** vous seront proposés \(cartouches - formulaires de saisie vides - les résultats des devoirs\)
 
@@ -100,15 +97,11 @@ Pour accéder au relevé de notes, suivez les étapes suivantes :
 
 ![](.gitbook/assets/11_releve-de-notes-2.jpg)
 
-3.	Il est possible d’accéder aux **détails des devoirs** en cliquant sur l’entête de l’évaluation \(une évaluation avec des compétences est soulignée en orange\) **\(3\)**.
-
-4.	Une aide à la saisie est proposée pour la **saisie des éléments du programme travaillés \(4\)**.
-
-5.	Il est possible de **modifier les notes des élèves directement** sur le relevé. La moyenne peut, elle aussi, être ajustée ainsi que les appréciations de chaque élève. **\(5\)**.
-
-6.	L’affichage du relevé périodique peut être simplifié en cliquant sur **“&lt;&lt;”** afin de n’afficher que les moyennes et les appréciations des élèves **\(6\).**
-
-7.	Le **clic sur le détail** pour un élève **\(7\)** permet de saisir ici également l’appréciation.
+1. Il est possible d’accéder aux **détails des devoirs** en cliquant sur l’entête de l’évaluation \(une évaluation avec des compétences est soulignée en orange\) **\(3\)**.
+2. Une aide à la saisie est proposée pour la **saisie des éléments du programme travaillés \(4\)**.
+3. Il est possible de **modifier les notes des élèves directement** sur le relevé. La moyenne peut, elle aussi, être ajustée ainsi que les appréciations de chaque élève. **\(5\)**.
+4. L’affichage du relevé périodique peut être simplifié en cliquant sur **“&lt;&lt;”** afin de n’afficher que les moyennes et les appréciations des élèves **\(6\).**
+5. Le **clic sur le détail** pour un élève **\(7\)** permet de saisir ici également l’appréciation.
 
 ![](.gitbook/assets/12_releve-de-notes-3.jpg)
 
@@ -128,7 +121,7 @@ Cliquez sur le menu **« Suivi élève » \(1\)**
 
 ![](.gitbook/assets/15_suivre-le-niveau-des-eleves-1.jpg)
 
-#### Visualiser les niveaux d'un élève sur les compétences
+### Visualiser les niveaux d'un élève sur les compétences
 
 1. Renseigner les **critères pour choisir un élève \(2\)** - Visualisation de la fiche élève sur la partie gauche de l'écran.
 2. L'onglet **Suivi des items** permet de consulter le niveau de l'élève dans chacune des compétences évaluées.En cliquant sur la pastille de la **colonne "Final" \(3\)** vous pouvez modifier le niveau final de l'élève sur cet item de compétences.
@@ -136,7 +129,7 @@ Cliquez sur le menu **« Suivi élève » \(1\)**
 
 ![](.gitbook/assets/16_suivre-le-niveau-des-eleves-2.png)
 
-4. Le clic sur la barre de compétences permet d'afficher le **détail des évaluations d'une compétence en particulier \(5\).**
+1. Le clic sur la barre de compétences permet d'afficher le **détail des évaluations d'une compétence en particulier \(5\).**
 
 ![](.gitbook/assets/17_suivre-le-niveau-des-eleves-3.jpg)
 
@@ -144,14 +137,14 @@ Par défaut une **vue graphique** est affichée. Il est cependant possible d’a
 
 L’ajout d’une évaluation libre est également possible sur cette page en cliquant sur **« Ajouter une évaluation libre » \(5\)**. Elle permet d’évaluer la compétence de l’élève.
 
-#### Visualiser le bilan de fin de cycle d'un élève
+### Visualiser le bilan de fin de cycle d'un élève
 
 Pour voir le bilan du niveau des élèves individuellement, suivez les étapes suivantes :
 
 1. Renseigner les **critères pour choisir un élève \(1\)**
-2. Il est possible **d’afficher le bilan de compétences** d’un élève en cliquant sur : ![](.gitbook/assets/18_visualisation-bilan.jpg) **\(2\)**
+2. Il est possible **d’afficher le bilan de compétences** d’un élève en cliquant sur : ![](https://github.com/CGI-OPEN-ENT-NG/application-help-smartschool/tree/9f19f3498bf5ad48e1a40f445dc1dfa49f255c94/application/.gitbook/assets/18_visualisation-bilan.jpg) **\(2\)**
 
-![](.gitbook/assets/19_visualisation-bilan-4.jpg)
+![](https://github.com/CGI-OPEN-ENT-NG/application-help-smartschool/tree/9f19f3498bf5ad48e1a40f445dc1dfa49f255c94/application/.gitbook/assets/19_visualisation-bilan-4.jpg)
 
 Le bilan de fin de cycle de l’élève est accessible \(3\) et téléchargeable \(4\).
 
@@ -161,7 +154,7 @@ Le bilan de fin de cycle peut être visualisé par période : par trimestre, pou
 
 Enfin, la **synthèse du bilan de fin de cycle peut être saisie sur cet écran** ainsi que les enseignements de complément pour les élèves du cycle 4.
 
-#### Visualiser les notes et le bulletin d'un élève
+### Visualiser les notes et le bulletin d'un élève
 
 Depuis le suivi de l'élève, l'onglet **Suivi des notes \(1\)** vous permet d'afficher toutes les notes d'un élève et ses moyennes pour la période sélectionnée et de les télécharger \(2\). Si le bulletin a déjà été généré par l'établissement, il est aussi possible de l'afficher dans l'onglet **Bulletins \(3\)**.
 
@@ -177,7 +170,7 @@ Pour suivre le niveau des compétences de classe, suivez les étapes suivantes :
 
 ![](.gitbook/assets/22_suivi-classe%20%281%29.jpg)
 
-#### Suivre les niveau de compétences d'une classe
+### Suivre les niveau de compétences d'une classe
 
 * Renseigner les **critères pour choisir une classe et une période \(2\)**
 * Dans l'onglet **Suivi des items**, pour chaque compétence, le niveau de la classe est affiché sous forme de barre avec différents niveaux de maîtrise atteint par chaque élève \(3\).
@@ -195,7 +188,7 @@ Plusieurs **exports** sont proposés sur l'écran de suivi de classe \(6\).
 
 ![](.gitbook/assets/25_suiviclasse3.png)
 
-#### Consulter les positionnements d'une classe
+### Consulter les positionnements d'une classe
 
 1. Cliquez sur le menu **« Suivi classe » \(1\)**
 
@@ -206,13 +199,13 @@ Plusieurs **exports** sont proposés sur l'écran de suivi de classe \(6\).
 
 ![](.gitbook/assets/26_suiviclasse4.png)
 
-#### Consulter les moyennes d'une classe
+### Consulter les moyennes d'une classe
 
 1. Dans l'onglet **Moyennes** \(5\), les moyennes des élèves de la classe dans chaque matière sont affichées. Il est aussi possible **d'exporter** ces moyennes \(6\).
 
 ![](.gitbook/assets/27_suiviclasse5.png)
 
-#### Consulter les appréciations des professeurs d'une classe
+### Consulter les appréciations des professeurs d'une classe
 
 1. Dans l'onglet **Appréciations professeurs** \(7\), les appréciations et les moyennes de chaque matière sont affichées pour la classe. Il est possible de les **exporter** \(8\).
 
@@ -240,7 +233,7 @@ Les exports LSU \(bilans de fin de cycle et bilans périodiques\) sont disponibl
 
 ![](.gitbook/assets/31_exportLSU.png)
 
-Choisir le type d'export souhaité \(2\). Déposer le **fichier STS**, renseigner **les classes** et les **responsables**  \(3\) puis cliquer sur le bouton **"Générer l'export"** \(4\)\(Il faut qu'au moins un élève de la classe ait un bilan complet :tous les domaines sont évalués - sauf si facultatif - la synthèse est renseignée\).
+Choisir le type d'export souhaité \(2\). Déposer le **fichier STS**, renseigner **les classes** et les **responsables** \(3\) puis cliquer sur le bouton **"Générer l'export"** \(4\)\(Il faut qu'au moins un élève de la classe ait un bilan complet :tous les domaines sont évalués - sauf si facultatif - la synthèse est renseignée\).
 
 ![](.gitbook/assets/32_exportLSU2.png)
 

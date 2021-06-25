@@ -1,4 +1,4 @@
-# Statistiques
+# Statistiques \(2D\)
 
 Devenez un analyste en herbe ! Grâce à l’appli **Statistique** suivez, sur une période donnée, la fréquentation par application ou encore le nombre de visiteurs de votre plateforme.
 
@@ -55,8 +55,4 @@ Vous pouvez organiser les résultats par profil \(5\) et les exporter dans un fi
 ## Statistiques des comptes activés
 
 ![](.gitbook/assets/stat-61-1%20%282%29.png)
-
-
-
-
 

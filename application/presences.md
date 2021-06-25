@@ -80,11 +80,11 @@ Renseigner les champs de **date**, **d'heure** et de **motif** puis cliquer sur 
 
 ![](.gitbook/assets/uni-parametres%20%284%29.png) _Il est possible de paramétrer les motifs depuis les paramétrages._
 
-**Déclarer une dispense, un incident, des punitions ou sanctions :** 
+**Déclarer une dispense, un incident, des punitions ou sanctions :**
 
 Nous verrons ces déclarations dans les pages concernées.
 
-**Déclarer un carnet oublié :** 
+**Déclarer un carnet oublié :**
 
 Enfin, c'est ici que la vie scolaire peut déclarer qu'un élève a **oublié son carnet de correspondance.** Depuis le **bouton "Carnet oublié"** en haut à droite de l'écran. Une fenêtre s'ouvre qui vous permet de saisir la **date de l'oubli** et qui indique le **nombre d'oublis déjà recensés**. ![](.gitbook/assets/2carnet_oublie.png)
 
@@ -156,7 +156,7 @@ Les différentes actions possibles :
 * **Noter un élève absent** en cliquant sur le rond devant son nom : un tiret rouge apparaît pour indiquer l'absence. Dans l'historique à droite, le point correspondant au cours actuel se colore. **\(4\)**
 * **Déclarer un retard ou un départ anticipé** : en cliquant sur le nom de l'élève, un panneau latéral s'ouvre qui permet de noter retard, départ et observations. En fonction de l'événement déclaré, un tiret de la couleur correspondante apparaît et le point se colore. Les retards sont en violet et les départs en vert. **\(5\)**
 
-![](.gitbook/assets/4saisir_appel.png) ![](.gitbook/assets/4panneau_eleve.png)
+![](https://github.com/CGI-OPEN-ENT-NG/application-help-smartschool/tree/9f19f3498bf5ad48e1a40f445dc1dfa49f255c94/application/.gitbook/assets/4saisir_appel.png) ![](https://github.com/CGI-OPEN-ENT-NG/application-help-smartschool/tree/9f19f3498bf5ad48e1a40f445dc1dfa49f255c94/application/.gitbook/assets/4panneau_eleve.png)
 
 Des informations pour l'enseignant sont disponibles sur l'appel :
 
@@ -347,7 +347,7 @@ Des **filtres** vous sont proposés pour affiner votre publipostage. ![](.gitboo
 
 Une fois **les filtres sélectionnés \(1\)** vous disposez d'un **récapitulatif du nombre d'événements à publiposter \(2\)**. Si des **anomalies** existent au niveau des coordonnées des parents, elles seront directement visibles dans un **tableau sous le récapitulatif \(3\)**. Enfin vous pourrez sélectionner **le mode de publipostage à l'aide des boutons en haut à droite \(4\)**.
 
- ![](.gitbook/assets/12publipostage.png)
+![](.gitbook/assets/12publipostage.png)
 
 En cliquant sur le mode de publipostage, une pop-up s'ouvre avec :
 

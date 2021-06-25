@@ -159,7 +159,7 @@ Collez l’URL de la vidéo \(2\) et cliquez sur « Appliquer » \(3\).
 
 **Ajouter une ressource dont le type n’est pas proposé par défaut**
 
-Il existe de nombreuses ressources internet que vous pouvez intégrer sur votre réseau éducatif si le code d’intégration lié est proposé. Ce code se trouve souvent derrière le symbole : **&lt;/&gt;** mais on peut le trouver également derrière un bouton "Partager" ou des icônes de partage. 
+Il existe de nombreuses ressources internet que vous pouvez intégrer sur votre réseau éducatif si le code d’intégration lié est proposé. Ce code se trouve souvent derrière le symbole : **&lt;/&gt;** mais on peut le trouver également derrière un bouton "Partager" ou des icônes de partage.
 
 Pour ces ressources, copiez le code d'intégration depuis le site externe, puis, dans la fenêtre d'ajout de contenu du cahier multimédia, appuyez sur la vignette "Collez votre propre code" \(4\).
 
@@ -173,7 +173,7 @@ Positionnez ensuite la vidéo dans la page et sauvegardez votre travail.
 
 ![](.gitbook/assets/2019-07-16_15h11_27%20%282%29.png)
 
-Positionnez ensuite la vidéo dans la page et sauvegardez votre travail en cliquant sur le bouton **Enregistrer**. 
+Positionnez ensuite la vidéo dans la page et sauvegardez votre travail en cliquant sur le bouton **Enregistrer**.
 
 Votre cahier est complété et la vidéo prête à être regardée !
 
@@ -187,8 +187,8 @@ Si vous souhaitez publier votre cahier multimédia dans la bibliothèque pour in
 
 Vous devez ensuite renseigner les caractéristiques de votre contenu pour expliquer votre usage :
 
-*  Titre : le plus explicatif possible
-*  Vignette : carrée au format JPG ou PNG
+* Titre : le plus explicatif possible
+* Vignette : carrée au format JPG ou PNG
 * Description et contexte pédagogique : Décrivez l’activité, son contexte, vos intentions pédagogiques, les résultats obtenus… Dites-nous tout ! 
 * Type d’activité : activité en classe, à la maison, individuelle, en groupe ? 
 * Discipline : Quelle est la discipline concernée par l’activité

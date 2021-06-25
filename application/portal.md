@@ -37,3 +37,4 @@ Pour supprimer une application en favori, cliquez sur le bouton “Gérer mes fa
 La page des applications permet de déplacer les icônes pour les afficher dans l’ordre de votre choix. Pour déplacer une icône, cliquez dessus et glissez-là à l’endroit souhaité.
 
 ![](.gitbook/assets/mes_applis_ordre_favoris.png)
+
