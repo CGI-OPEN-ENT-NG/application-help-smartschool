@@ -8,19 +8,11 @@ Le service Moteur de recherche a pour objectif de permettre à chaque utilisateu
 
 Les ressources sont recherchées dans les catégories suivantes :
 
-* Aide et support
 * Réservation de ressources
 * Espace documentaire
-* Agenda
-* Mur collaboratif
 * Wiki
-* Frise chronologique
-* Pad
-* Actualité
-* Carte mentale
+* Flash infos
 * Forum
-* Poste-Fichiers
-* Sondage
 
 Seules les ressources pour lesquelles l’utilisateur a un droit d’accès sont affichées dans le moteur de recherche.
 
