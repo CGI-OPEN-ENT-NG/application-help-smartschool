@@ -39,7 +39,7 @@ pipeline {
               *SNAPSHOT) nexusRepository='cgi-maven-snapshots' ;;
               *)         nexusRepository='cgi-maven-releases' ;;
             esac
-            mvn deploy:deploy-file -DgroupId=fr.cgi -DartifactId=application-help-smartschool -Dversion=$VERSION -Dpackaging=tar.gz -Dfile=application-help.tar.gz -DrepositoryId=cgi -Durl=https://nexus-pic2.support-ent.fr/repository/$nexusRepository/
+            mvn deploy:deploy-file -DgroupId=fr.cgi -DartifactId=application-help-smartschool -Dversion=$VERSION -Dpackaging=tar.gz -Dfile=application-help.tar.gz -DrepositoryId=$nexusRepository -Durl=https://nexus-pic2.support-ent.fr/repository/$nexusRepository/
           '''
         }
       }
