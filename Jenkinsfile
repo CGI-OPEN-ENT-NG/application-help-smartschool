@@ -36,10 +36,10 @@ pipeline {
           sh '''
             VERSION=`grep 'version=' VERSION | sed 's/version=//'`
             case "$VERSION" in
-              *SNAPSHOT) nexusRepository='snapshots' ;;
-              *)         nexusRepository='releases' ;;
+              *SNAPSHOT) nexusRepository='cgi-maven-snapshots' ;;
+              *)         nexusRepository='cgi-maven-releases' ;;
             esac
-            mvn deploy:deploy-file -DgroupId=com.opendigitaleducation -DartifactId=application-help -Dversion=$VERSION -Dpackaging=tar.gz -Dfile=application-help.tar.gz -DrepositoryId=wse -Durl=https://maven.opendigitaleducation.com/nexus/content/repositories/$nexusRepository/
+            mvn deploy:deploy-file -DgroupId=fr.cgi -DartifactId=application-help-smartschool -Dversion=$VERSION -Dpackaging=tar.gz -Dfile=application-help.tar.gz -DrepositoryId=cgi -Durl=https://nexus-pic2.support-ent.fr/nexus/content/repositories/$nexusRepository/
           '''
         }
       }
