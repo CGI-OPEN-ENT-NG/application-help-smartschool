@@ -4,11 +4,11 @@ Communiquez dans un cadre sécurisé ! Envoyez et recevez tous vos e-mails via l
 
 ## Présentation
 
-L’appli Messagerie permet d’envoyer simplement un message à **un utilisateur** ou à un **groupe d’utilisateurs** \(les élèves d’une classe, le personnel de l'établissement, etc.\) ayant un accès à l’ENT.
+L’appli Messagerie permet d’envoyer simplement un message à **un utilisateur** ou à un **groupe d’utilisateurs** \(les apprenants d’une classe, le personnel de l'établissement, etc.\) ayant un accès à au portail de service Smartschool.
 
 ![](.gitbook/assets/messagerie-1-2-2%20%282%29.png)
 
-La réception d’un nouveau message est visible dès la page d’accueil. Elle est indiquée par une **notification** dans le bandeau de navigation et dans le fil de nouveautés. Le nombre de messages non lus est indiqué devant chaque dossier.
+Le nombre de messages non lus est indiqué devant chaque dossier.
 
 ## Envoyer un message
 
