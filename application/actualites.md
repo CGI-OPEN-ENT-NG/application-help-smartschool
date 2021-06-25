@@ -1,20 +1,20 @@
 # Actualités
 
-L’actu 100 % bahut ! Ne laissez passer aucune info importante sur l’établissement grâce à l’appli **Actualités**. Publiez vos informations, par thématique, en ciblant les destinataires.
+L’actu 100 % bahut ! Ne laissez passer aucune info importante sur l’établissement grâce à l’appli **Flash infos**. Publiez vos informations, par thématique, en ciblant les destinataires.
 
 ## Présentation
 
-Cet outil vous permet de **diffuser facilement une information** \(comme le déroulement d’un événement ou le menu de la cantine\) en y intégrant différents types de contenus : texte, images, fichiers audio, vidéos, liens externes, etc. Les actualités créées sont associées à un **fil d’actualités** permettant aux utilisateurs de voir tous les contenus qui y sont rattachés.
+Cet outil vous permet de **diffuser facilement une information** \(comme le déroulement d’un événement ou le menu de la cantine\) en y intégrant différents types de contenus : texte, images, fichiers audio, vidéos, liens externes, etc. Les actualités créées sont associées à un **fil de flash infos** permettant aux utilisateurs de voir tous les contenus qui y sont rattachés.
 
-Lorsque vous publiez une actualité, vous choisissez les utilisateurs ou les groupes de personnes avec lesquels vous souhaitez partager l’information. Les personnes concernées reçoivent une **notification** dans leur **fil de nouveautés** et voient apparaître l’actualité dans le **widget Actualités** sur la page d’accueil.
+Lorsque vous publiez une actualité, vous choisissez les utilisateurs ou les groupes de personnes avec lesquels vous souhaitez partager l’information. Les personnes concernées voient apparaître l’actualité dans le **widget Flash infos** sur la page d’accueil.
 
 ![](.gitbook/assets/actu_11-1024x475-1-1%20%281%29%20%281%29.png)
 
-## Créer un fil d’actualités
+## Créer un fil de flash infos
 
-Pour créer un fil d’actualités, suivez les étapes suivantes :
+Pour créer un fil de flash infos, suivez les étapes suivantes :
 
-1. Cliquez sur le bouton « Gestion des fils »
+1. Cliquez sur le bouton « Gérer les fils »
 2. Cliquez sur « Nouveau fil »
 3. Saisissez le titre du fil
 4. Choisissez une image d’illustration
@@ -30,9 +30,9 @@ Pour créer un fil d’actualités, suivez les étapes suivantes :
 Par défaut seuls les enseignants et les personnels sont habilités à créer des fils d’actualités.
 {% endhint %}
 
-## Partager un fil d’actualités
+## Partager un fil de flash infos
 
-Vous pouvez maintenant partager votre fil d’actualités :
+Vous pouvez maintenant partager votre fil de flash infos:
 
 1. Cliquez sur « Gérer les fils »
 2. Sélectionnez la case à cocher du fil à partager
@@ -42,7 +42,7 @@ Vous pouvez maintenant partager votre fil d’actualités :
 
 ![](.gitbook/assets/actu_3_1-1024x633-4%20%281%29%20%281%29.png)
 
-Pour partager le fil d’actualités avec d’autres utilisateurs, suivez les étapes suivantes :
+Pour partager le fil de flash infos avec d’autres utilisateurs, suivez les étapes suivantes :
 
 1. Saisissez les premières lettres du nom de l’utilisateur ou du groupe d’utilisateurs que vous recherchez
 2. Sélectionnez le résultat
@@ -52,32 +52,32 @@ Pour valider, cliquez sur le bouton "Partager".
 
 ![](.gitbook/assets/fil-actu-2-1-1%20%281%29%20%281%29.png)
 
-Les différents droits que vous pouvez attribuer aux autres utilisateurs du réseau sur le fil d’actualités sont les suivants :
+Les différents droits que vous pouvez attribuer aux autres utilisateurs du réseau sur le fil de flash infos sont les suivants :
 
-* **Contribuer** : l’utilisateur peut créer des actualités qui vous seront soumises avant publication
-* **Publier** : l’utilisateur peut publier des actualités dans le fil
-* **Gérer** : l’utilisateur peut modifier, partager ou supprimer le fil d’actualités
+* **Contribuer** : l’utilisateur peut créer des flash infos qui vous seront soumises avant publication
+* **Publier** : l’utilisateur peut publier des flash infos dans le fil
+* **Gérer** : l’utilisateur peut modifier, partager ou supprimer le fil de flash infos
 
-## Créer une actualité
+## Créer un flash info
 
-Pour créer une actualité, cliquez sur le bouton « Nouvelle actualité ».
+Pour créer un flash info, cliquez sur le bouton « Nouveau flash info ».
 
 ![](.gitbook/assets/capture-1-1-1%20%282%29.png)
 
-Dans la nouvelle fenêtre, indiquez le titre de l’actualité \(1\), le fil auquel l’actualité sera rattachée \(2\), les dates de publication et d’expiration \(3\), et le contenu de votre actualité \(4\).  
-La case à cocher « Mettre à la une » permet de laisser votre actualité en haut de la liste.
+Dans la nouvelle fenêtre, indiquez le titre de du flash info\(1\), le fil auquel le flash info sera rattaché \(2\), les dates de publication et d’expiration \(3\), et le contenu de votre flash info \(4\).  
+La case à cocher « Mettre à la une » permet de laisser votre flash info en haut de la liste.
 
 ![](.gitbook/assets/actu-2-1024x524-4%20%282%29.png)
 
 Plusieurs actions sont ensuite proposées :
 
-* **Annuler** pour annuler votre saisie et revenir à la liste des actualités
-* **Publier** votre actualité
-* **Enregistrer** : votre actualité n’est pas publiée et vous pouvez la compléter plus tard
+* **Annuler** pour annuler votre saisie et revenir à la liste des flash infos
+* **Publier** votre flash info
+* **Enregistrer** : votre flash info n’est pas publié et vous pouvez la compléter plus tard
 
-## Partager une actualité
+## Partager un flash info
 
-Vous pouvez décider d’attribuer des droits sur une actualité indépendamment des droits de partage définis sur le fil auquel elle appartient. Pour cela, cliquez sur la case à cocher de l’actualité concernée \(1\) puis sur « Partager » \(2\).
+Vous pouvez décider d’attribuer des droits sur un flash info indépendamment des droits de partage définis sur le fil auquel elle appartient. Pour cela, cliquez sur la case à cocher du flash info concerné \(1\) puis sur « Partager » \(2\).
 
 ![](.gitbook/assets/actu_4-1-1024x626-1-1%20%282%29.png)
 
@@ -93,6 +93,6 @@ Pour valider, cliquez sur le bouton "Partager".
 
 Les différents droits que vous pouvez attribuer aux autres utilisateurs sur l’actualité sont les suivants :
 
-* **Lire** : l’utilisateur peut lire le contenu de l’actualité
-* **Commenter** : l’utilisateur peut laisser un commentaire sous l’actualité
+* **Lire** : l’utilisateur peut lire le contenu du flash info
+* **Commenter** : l’utilisateur peut laisser un commentaire sous le flash info
 
