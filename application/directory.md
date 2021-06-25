@@ -17,12 +17,12 @@ Grâce au service "Annuaire", vous allez pouvoir :
 Vous pouvez rechercher facilement et rapidement un utilisateur. Pour effectuer votre recherche, vous disposez un onglet de recherche \(1\) et de filtres afin d’affiner les résultats. Vous pourrez filtrer par :
 
 * Classe \(2\)
-* Profil \(élève, enseignant, parent, personnel, invité\) \(3\)
-* Fonction \(administrateur\) \(4\)
+* Profil \(apprenant, personnel pédagogique, utilisateur extérieur, personnel, invité\) \(3\)
+* Fonction \(CadreDirectionEcole, EleveEN, ...\) \(4\)
 
 ![](.gitbook/assets/annuaire1-1-1-1%20%281%29%20%281%29.png)
 
-Certains de ces filtres sont conditionnels. Par exemple : le filtre "Fonction" disparaîtra pour le profil "Élève" qui ne peut pas avoir de "Fonction" particulière dans l'ENT.
+Certains de ces filtres sont conditionnels. Par exemple : le filtre "Fonction" disparaîtra pour le profil "Apprenant".
 
 Une fois l’utilisateur trouvé, vous pouvez consulter sa fiche. Vous avez la possibilité de lui envoyer un message \(1\), l’ajouter dans vos favoris de partage \(2\), ou consulter tout simplement les informations disponibles sur sa fiche.
 
@@ -33,8 +33,8 @@ Une fois l’utilisateur trouvé, vous pouvez consulter sa fiche. Vous avez la p
 Vous pouvez rechercher facilement et rapidement un groupe d’utilisateurs. Pour effectuer votre recherche, vous disposez un onglet de recherche \(1\) et de filtres afin d’affiner les résultats. Vous pourrez filtrer par :
 
 * Classe \(2\)
-* Profil \(élève, enseignant, parent, personnel, invité\) \(3\)
-* Fonction \(administrateur\) \(4\)
+* Profil \(apprenant, personnel pédagogique, utilisateur extérieur, personnel, invité\) \(3\)
+* Fonction \(CadreDirectionEcole, EleveEN, ...\) \(4\)
 * Type de groupe \(Groupe d’enseignement, groupe de communauté, groupe manuel\) \(5\)
 
 ![](.gitbook/assets/groupe-2-1%20%281%29%20%281%29.png)
