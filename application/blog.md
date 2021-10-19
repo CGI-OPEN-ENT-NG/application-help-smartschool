@@ -4,35 +4,35 @@ Endossez la casquette du petit reporter en créant un **Blog** ! Publiez et part
 
 ## Présentation
 
-L’appli **Blog** permet de publier facilement des informations, en y intégrant **différents types de contenus** : texte, images, fichiers audio, vidéos, liens externes, etc. Les articles ou « billets » de blog sont datés, identifiés par leur auteur et sont affichés par ordre chronologique inversé \(visualisation des derniers contenus publiés en haut de page\).
+L’appli **Blog** permet de publier facilement des informations, en y intégrant **différents types de contenus** : texte, images, fichiers audio, vidéos, liens externes, etc. Les articles ou « billets » de blog sont datés, identifiés par leur auteur et sont affichés par ordre chronologique inversé (visualisation des derniers contenus publiés en haut de page).
 
 En cas de contribution de la part d’autres utilisateurs, le gestionnaire du blog choisit le **circuit de publication** souhaité : soit il relit les billets soumis par les autres utilisateurs avant de les publier, soit les billets sont publiés immédiatement quel qu’en soit l’auteur.
 
-![](.gitbook/assets/blog_1-1024x478-2-2-2%20%281%29%20%281%29.png)
+![](<.gitbook/assets/blog\_1-1024x478-2-2-2 (1) (1).png>)
 
 ## Créer un blog privé
 
 Dans le service Blog, cliquez sur le bouton « Créer un blog » présent en haut à droite de la page.
 
-![](.gitbook/assets/2d-blog-creer-1-1%20%282%29.png)
+![](<.gitbook/assets/2d-blog-creer-1-1 (2).png>)
 
 Vous accédez à l’interface de création du blog.
 
 1. Indiquez le titre de votre blog.
-2. Ajoutez une vignette d’illustration du blog \(si vous ne modifiez pas l’image, c’est la vignette par défaut qui s’affichera\).
+2. Ajoutez une vignette d’illustration du blog (si vous ne modifiez pas l’image, c’est la vignette par défaut qui s’affichera).
 
 Cliquez sur « Enregistrer » pour valider la création du blog.
 
-![](.gitbook/assets/2019-07-11_11h06_50%20%282%29.png)
+![](<.gitbook/assets/2019-07-11\_11h06\_50 (2).png>)
 
 ## Partager un blog
 
 Le blog a été créé mais n’est pas encore visible par les autres utilisateurs. Pour partager un blog avec d’autres utilisateurs, suivez les étapes suivantes :
 
-1. Cliquez sur le blog à partager \(1\)
-2. Cliquez sur le bouton « Partager » \(2\)
+1. Cliquez sur le blog à partager (1)
+2. Cliquez sur le bouton « Partager » (2)
 
-![](.gitbook/assets/2019-07-12_17h37_18%20%281%29%20%281%29.png)
+![](<.gitbook/assets/2019-07-12\_17h37\_18 (1) (1).png>)
 
 Pour le partager, suivez les étapes suivantes :
 
@@ -42,7 +42,7 @@ Pour le partager, suivez les étapes suivantes :
 
 Pour valider, cliquez sur le bouton "Partager".
 
-![](.gitbook/assets/blog-2-1%20%281%29%20%281%29.png)
+![](<.gitbook/assets/blog-2-1 (1) (1).png>)
 
 Les différents droits que vous pouvez attribuer aux autres utilisateurs sont les suivants :
 
@@ -53,31 +53,31 @@ Les différents droits que vous pouvez attribuer aux autres utilisateurs sont le
 
 Sur les vignettes de blog, des icônes vous permettent facilement de connaitre vos droit sur les contenus :
 
-* ![](.gitbook/assets/eye-1%20%281%29.png) : Consulter
-* ![](.gitbook/assets/pencil-1%20%281%29.png) : Contribuer
-* ![](.gitbook/assets/cog-1%20%281%29.png) : Gérer
+* ![](<.gitbook/assets/eye-1 (1).png>) : Consulter
+* ![](<.gitbook/assets/pencil-1 (1).png>) : Contribuer
+* ![](<.gitbook/assets/cog-1 (1).png>) : Gérer
 
-De plus, concernant les blogs sur lesquels vous êtes propriétaire, l'icone suivante vous permet de savoir si le contenu a déjà été partagé : ![](.gitbook/assets/share-1-2%20%281%29.png)
+De plus, concernant les blogs sur lesquels vous êtes propriétaire, l'icone suivante vous permet de savoir si le contenu a déjà été partagé : ![](<.gitbook/assets/share-1-2 (1).png>)
 
 ## Organiser ses blogs
 
-1. Vous disposez de 3 filtres pour afficher vos blogs : 
+1. Vous disposez de 3 filtres pour afficher vos blogs :&#x20;
    * **Mes blogs**, pour afficher/masquer les blogs dont vous êtes le propriétaire
    * **Les blogs partagés avec moi**, pour afficher/masquer les blogs qui vous ont été partagés
 2. Une barre de recherche vous permet de trouver rapidement un blog en saisissant son nom.
-3. Afin d'organiser vos blogs, vous disposez de l'arborescence suivante : 
-   * **Mes blogs**, qui est le dossier principal, dans lequel vous pourrez créer tous vos sous-dossiers \(grâce au bouton **Créer un dossier\)**
+3. Afin d'organiser vos blogs, vous disposez de l'arborescence suivante :&#x20;
+   * **Mes blogs**, qui est le dossier principal, dans lequel vous pourrez créer tous vos sous-dossiers (grâce au bouton **Créer un dossier)**
    * **Corbeille** où vous retrouverez les blogs que vous aurez supprimé, pour éviter toute suppression définitive involontaire
 
-![](.gitbook/assets/2019-07-11_11h35_16-1%20%281%29%20%281%29.png)
+![](<.gitbook/assets/2019-07-11\_11h35\_16-1 (1) (1).png>)
 
-Après avoir créer vos différents dossiers, sélectionnez \(1\) le ou les blogs que vous voulez mettre dans vos dossiers, puis cliquez sur le bouton "Déplacer" \(2\).
+Après avoir créer vos différents dossiers, sélectionnez (1) le ou les blogs que vous voulez mettre dans vos dossiers, puis cliquez sur le bouton "Déplacer" (2).
 
-![](.gitbook/assets/2019-07-11_11h28_38%20%282%29.png)
+![](<.gitbook/assets/2019-07-11\_11h28\_38 (2).png>)
 
 Une fenêtre s'ouvrira, vous permettant de déplacer le blog sélectionné dans un dossier existant ou d'en créer un nouveau. Il vous est également possible de déplacer des dossiers.
 
-![](.gitbook/assets/2019-07-11_11h29_47-1%20%281%29%20%281%29.png)
+![](<.gitbook/assets/2019-07-11\_11h29\_47-1 (1) (1).png>)
 
 ## Gérer le circuit de publication
 
@@ -86,22 +86,22 @@ Pour gérer le circuit de publication de votre blog, ouvrez la fenêtre de parta
 * **Publication immédiate** : lorsque des utilisateurs contributeurs créent un billet, celui-ci est directement publié dans le blog.
 * **Billet à soumettre** : lorsque des utilisateurs contributeurs créent un billet, le billet passe au statut « Soumis » et c’est le gestionnaire du blog qui effectue l’action de publication du billet.
 
-![](.gitbook/assets/partage-blog-circuit-de-publication-2-4%20%282%29.png)
+![](<.gitbook/assets/partage-blog-circuit-de-publication-2-4 (2).png>)
 
 ## Publier un billet
 
 Une fois votre blog créé, vous pouvez publier un billet. Pour cela, cliquez sur le bouton « Créer un billet » présent en haut de l’écran.
 
-![](.gitbook/assets/blog_4-1024x159-2-1-1-1%20%281%29%20%281%29.png)
+![](<.gitbook/assets/blog\_4-1024x159-2-1-1-1 (1) (1).png>)
 
 L’outil de création du billet s’affiche dans la page :
 
 1. Saisissez le titre
 2. Rédigez le contenu du billet.
 
-![](.gitbook/assets/2018-08-24_15h13_04-1-1-1%20%281%29%20%281%29.png)
+![](<.gitbook/assets/2018-08-24\_15h13\_04-1-1-1 (1) (1).png>)
 
-Une fois la saisie terminée, vous avez différents boutons d'action \(3\) :
+Une fois la saisie terminée, vous avez différents boutons d'action (3) :
 
 * **Enregistrer le billet** : il passe alors au format brouillon et n’est pas visible des autres utilisateurs ayant accès au blog
 * **Publier le billet** : le billet est alors visible par les utilisateurs ayant accès au blog
@@ -113,29 +113,29 @@ Pour les utilisateurs pouvant contribuer à un blog dans lequel le circuit de pu
 
 ## Valider un billet
 
-Si vous avez activé un circuit de publication \(billets à soumettre pour les contributeurs\), les billets en attente de validation se trouvent dans la catégorie « Soumis ».
+Si vous avez activé un circuit de publication (billets à soumettre pour les contributeurs), les billets en attente de validation se trouvent dans la catégorie « Soumis ».
 
 Cliquez la case à cocher des billets soumis pour afficher les billets rédigés par les contributeurs du blog.
 
-![](.gitbook/assets/blog_51-1-1-1%20%281%29%20%281%29.png)
+![](<.gitbook/assets/blog\_51-1-1-1 (1) (1).png>)
 
-Vous pouvez réaliser les actions suivantes en cliquant sur « Publier » ou sur l’icône ![](.gitbook/assets/unnamed-file-2-1-2%20%281%29%20%281%29.png) :
+Vous pouvez réaliser les actions suivantes en cliquant sur « Publier » ou sur l’icône ![](<.gitbook/assets/unnamed-file-2-1-2 (1) (1).png>) :
 
 * **Publier** le billet sans mise à jour : le billet est alors visible par tous les utilisateurs ayant accès au blog
 * **Modifier** le billet avant publication : vous accédez à l’éditeur de texte pour apporter vos modifications
 * **Supprimer** le billet
 
-![](.gitbook/assets/blog_2-1024x363-3-1%20%282%29.png)
+![](<.gitbook/assets/blog\_2-1024x363-3-1 (2).png>)
 
 ## Imprimer un blog
 
 Lorsque vous naviguez sur votre blog, vous avez la possibilité de l'imprimer, en cliquant sur le bouton "Imprimer le blog" :
 
-![](.gitbook/assets/imprimer-blog-2-2%20%281%29%20%281%29.png)
+![](<.gitbook/assets/imprimer-blog-2-2 (1) (1).png>)
 
 Une option vous permettra de choisir si vous souhaitez imprimer le blog avec les commentaires ou non :
 
-![](.gitbook/assets/2018-10-19_12h42_55-2-1%20%281%29%20%281%29.png)
+![](<.gitbook/assets/2018-10-19\_12h42\_55-2-1 (1) (1).png>)
 
 ## Exporter un blog en PDF
 
@@ -145,17 +145,16 @@ Si vous souhaitez exporter votre blog sous la forme d'un fichier PDF, il vous fa
 
 Dans le champ "Destination", choisissez l'option Enregistrer au format PDF
 
-![](.gitbook/assets/2019-07-11_15h18_39-1%20%281%29.png)
+![](<.gitbook/assets/2019-07-11\_15h18\_39-1 (1).png>)
 
 * Pour Internet Explorer, Microsoft Edge et Mozilla Firefox :
 
 Dans le champ "Nom", choisissez l'option "Microsoft Print to PDF"
 
-![](.gitbook/assets/2019-07-11_15h18_03%20%281%29%20%281%29.png)
+![](<.gitbook/assets/2019-07-11\_15h18\_03 (1) (1).png>)
 
 * Pour Safari :
 
 Cliquez sur la flèche vers le bas situé à coté du PDF puis choisissez l'option "Enregistrer au format PDF"
 
-![](.gitbook/assets/capture-decran-2019-07-11-a-15.36.46%20%281%29%20%281%29.png)
-
+![](<.gitbook/assets/capture-decran-2019-07-11-a-15.36.46 (1) (1).png>)

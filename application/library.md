@@ -17,14 +17,14 @@ Vous pouvez publier dans la Bibliothèque depuis les applications suivantes :
 * Wiki
 * Exercices et évaluations
 * Mur collaboratif
-* Carte mentale 
+* Carte mentale&#x20;
 * Frise chronologique
 
 Pour cela, sélectionner la ressource souhaitée, et cliquez sur “Publier dans la Bibliothèque” dans le menu inférieur.
 
-![bandeau d&apos;action sur l&apos;interface 1er degr&#xE9;](.gitbook/assets/bandeauone.png)
+![bandeau d'action sur l'interface 1er degré](.gitbook/assets/bandeauone.png)
 
-![bandeau d&apos;action sur l&apos;interface 2nd degr&#xE9;](.gitbook/assets/bandeauneo.png)
+![bandeau d'action sur l'interface 2nd degré](.gitbook/assets/bandeauneo.png)
 
 ## Consulter une activité dans la Bibliothèque
 
@@ -32,30 +32,30 @@ Une activité est une production réalisée via les applications pédagogiques d
 
 ![](.gitbook/assets/consulteractivite-all2.png)
 
-**A\) Visualiser en PDF**
+**A) Visualiser en PDF**
 
 Vous accédez au PDF de l’activité pour en obtenir un aperçu. Pour cela, cliquez sur “Voir en PDF”
 
 ![](.gitbook/assets/visualiserpdf2.png)
 
-**B\) Voir les statistiques d’une activité**
+**B) Voir les statistiques d’une activité**
 
 Vous accédez en haut à droite d’une activité aux différentes statistiques de consultation :
 
 ![](.gitbook/assets/statistiques.png)
 
-1. Nombre de consultations de l’activité \(hors consultations de l’auteur sur sa propre activité\) 
+1. Nombre de consultations de l’activité (hors consultations de l’auteur sur sa propre activité)&#x20;
 2. Nombre de commentaires laissés sur l’activité
 3. Nombre d’ajouts dans Mes Inspirations
-4. Nombre de récupération par d’autres enseignants 
+4. Nombre de récupération par d’autres enseignants&#x20;
 
-**C\) Ajouter une activité à Mes inspirations**
+**C) Ajouter une activité à Mes inspirations**
 
 Ajouter une activité dans Mes inspirations vous permet l’enregistrer pour la consulter plus tard depuis votre Collection, disponible dans le bandeau supérieur.
 
 ![](.gitbook/assets/ajoutera-mesinspis.png)
 
-**D\) Commenter une activité**
+**D) Commenter une activité**
 
 Vous pouvez commenter une activité, ou répondre à un commentaire existant, en bas de la page de chaque activité. L’auteur de l’activité sera notifié de ce commentaire et pourra vous répondre !
 
@@ -75,7 +75,7 @@ Pour retrouver les activités que vous avez publiées et les activités enregist
 
 ## Modifier une activité publiée dans la Bibliothèque
 
-Lorsque vous avez publié une activité dans la Bibliothèque, vous pouvez modifier les champs renseignés à tout moment \(titre, description et contexte pédagogique, mots-clés\).  
+Lorsque vous avez publié une activité dans la Bibliothèque, vous pouvez modifier les champs renseignés à tout moment (titre, description et contexte pédagogique, mots-clés).\
 Pour cela, rendez-vous dans “Mes activités”, puis “Mes publications”. Une fois sur votre activité, cliquez sur le bouton “Modifier”.
 
 ![](.gitbook/assets/modifieractivit2.png)
@@ -95,4 +95,3 @@ Un problème sur une activité, un commentaire? Vous pouvez signaler un contenu 
 Vous serez ensuite invité à renseigner les raisons de ce signalement avant de valider. Votre signalement sera ensuite traité dans les plus brefs délais.
 
 ![](.gitbook/assets/raisonsignalement.png)
-

@@ -6,7 +6,7 @@ Le cahier de texte est un module qui permet, selon les profils, d'accéder ou de
 
 La vue calendaire est la vue par défaut du cahier de texte des enseignants. Elle affiche l'emploi du temps de l'enseignant connecté et donne accès aux principales fonctionnalités.
 
-![](.gitbook/assets/1calendaire_enseignant%20%281%29.png)
+![](<.gitbook/assets/1calendaire\_enseignant (1).png>)
 
 Légende des couleurs :
 
@@ -14,7 +14,7 @@ Légende des couleurs :
 * **orange** : un travail à faire a été saisi pour ce créneau
 * **vert et orange** : une séance et un ou plusieurs devoirs ont été saisis sur ce créneau
 
-![](.gitbook/assets/1calendaire_couleurs%20%281%29.png)
+![](<.gitbook/assets/1calendaire\_couleurs (1).png>)
 
 ### Créer des séances et devoirs
 
@@ -30,7 +30,7 @@ Chacune de ces actions ouvre une fenêtre permettant de saisir plusieurs informa
 
 **Créer une séance**
 
-![](.gitbook/assets/2ajouter_seance%20%281%29.png)
+![](<.gitbook/assets/2ajouter\_seance (1).png>)
 
 Si l'ajout de séance a été réalisé en cliquant sur un créneau, la classe et la discipline sont pré-remplies, sinon il faut choisir.
 
@@ -38,41 +38,41 @@ Il faut encore compléter :
 
 * **Un titre** : par défaut Séance + date du jour
 * **salle préremplie** avec l'emploi du temps
-* **type de séances** \(ces types sont paramétrés par la vie scolaire\)
+* **type de séances** (ces types sont paramétrés par la vie scolaire)
 * **date du jour pré-renseignée**
-* bouton de **publication** : activé par défaut \(possible de le désactiver pour rentrer des séances et devoirs en avance sans que les autres profils le voient\)
+* bouton de **publication** : activé par défaut (possible de le désactiver pour rentrer des séances et devoirs en avance sans que les autres profils le voient)
 * **description** : il s'agit de l'éditeur de texte présent partout sur l'ENT
 
 Un bouton **"Ajouter un travail à faire"** permet de poursuivre la saisie d'un travail, d'un devoir.
 
 **Ajouter un travail à faire**
 
-![](.gitbook/assets/3ajouter_travail%20%281%29.PNG)
+![](<.gitbook/assets/3ajouter\_travail (1).PNG>)
 
 Pour cette section, il est possible de saisir un travail :
 
-* **pour une échéance** : séance \(par défaut celle en cours\) ou date
+* **pour une échéance** : séance (par défaut celle en cours) ou date
 * **pour une ou plusieurs classes, groupes**
-* **pour une discipline spécifique** \(si l'enseignant est multidisciplinaire\)
+* **pour une discipline spécifique** (si l'enseignant est multidisciplinaire)
 
 Il est possible aussi d'ajouter :
 
-* un **type de travail** \(paramétré par la vie scolaire\)
+* un **type de travail** (paramétré par la vie scolaire)
 * une **durée** estimée
 
-Une fois le travai validé, un **tableau récapitulatif apparaît**. ![](https://github.com/opendigitaleducation/application-help-2d/tree/e1bd9f38451e0401e6458a70c33ef0b5e0509279/application/.gitbook/assets/img_cgi/diary/3recap_travail.PNG)
+Une fois le travai validé, un **tableau récapitulatif apparaît**. ![](https://github.com/opendigitaleducation/application-help-2d/tree/e1bd9f38451e0401e6458a70c33ef0b5e0509279/application/.gitbook/assets/img\_cgi/diary/3recap\_travail.PNG)
 
 ### La recherche
 
 En tant qu'enseignant il est possible d'afficher les cahiers de texte d'autres enseignants et d'autres classes. Il faut pour cela choisir l'enseignant ou la classe dans **les champs de recherche situés en haut de la page.**
 
-![](.gitbook/assets/1calendaire_recherche.png)
+![](.gitbook/assets/1calendaire\_recherche.png)
 
 ## Profil enseignant - Liste des cahiers de texte
 
 Sur cette page **sont recensés tous les cahiers de texte** saisis par l'enseignant pour toutes ses classes avec des informations sur la dernière modification, le nombre de séances contenues dans le cahier de texte, et l'état s'il a été visé ou non par la direction.
 
-![](.gitbook/assets/4liste_cahierdetexte.png)
+![](.gitbook/assets/4liste\_cahierdetexte.png)
 
 **En cliquant sur les lignes**, le cahier de texte s'ouvre et met à disposition toutes les séances et devoirs rattachés à ce cahier de texte.
 
@@ -90,7 +90,7 @@ Il est possible dans ce module d'anticiper son travail de saisie des séances et
 
 La création d'un dossier se fait depuis le **bouton "Créer un dossier"** dans l'arborescence à gauche.
 
-![](.gitbook/assets/5creer_dossier.png)
+![](.gitbook/assets/5creer\_dossier.png)
 
 **Ce dossier correspond à une progression** dans laquelle, il est alors possible de créer des séances en anticipation.
 
@@ -98,11 +98,11 @@ La création d'un dossier se fait depuis le **bouton "Créer un dossier"** dans 
 
 Pour créer une séance, il suffit de **cliquer sur le bouton "Créer une séance"en haut à droite.**
 
-Une fenêtre s'ouvre avec les mêmes champs à remplir que depuis la vue calendaire. ![](.gitbook/assets/5creer_seance.png)
+Une fenêtre s'ouvre avec les mêmes champs à remplir que depuis la vue calendaire. ![](.gitbook/assets/5creer\_seance.png)
 
 Une fois la séance enregistrée, elle apparaît dans le dossier dans lequel l'utilisateur était positionné. Cette séance se retrouve ensuite dans **le bloc de gauche sur la vue calendaire.**
 
-![](.gitbook/assets/5calendaire_sidebar%20%281%29.png)
+![](<.gitbook/assets/5calendaire\_sidebar (1).png>)
 
 Ainsi, il est possible de **pré-remplir des séances dans Progressions pour ensuite les glisser-déposer dans la vue calendaire pour plusieurs classes** et ainsi gagner du temps.
 
@@ -120,15 +120,15 @@ Elle propose : **une ligne par enseignant et par classe** : chaque ligne est don
 
 En cliquant sur la ligne le détail s'ouvre et il est alors possible de consulter les séances et devoirs de ce cahier de texte.
 
-![](.gitbook/assets/6details%20%281%29.png)
+![](<.gitbook/assets/6details (1).png>)
 
 Si le personnel connecté dispose des droits, il lui est possible de **viser un cahier de texte**. Pour cela, il faut sélectionner le cahier de texte. Un menu apparaît en bas qui permet de sélectionner "Viser".
 
-![](.gitbook/assets/6toaster_viser%20%281%29.png)
+![](<.gitbook/assets/6toaster\_viser (1).png>)
 
 Une fenêtre s'ouvre pour entrer un commentaire et viser.
 
-![](.gitbook/assets/6viser%20%281%29.png)
+![](<.gitbook/assets/6viser (1).png>)
 
 ## Profil Vie Scolaire - Vue calendaire
 
@@ -136,7 +136,7 @@ Il est aussi possible pour l'équipe de vie scolaire de **consulter la vue calen
 
 Sur cette vue vide par défaut, il est **nécessaire de sélectionner un enseignant et/ou une classe** pour en afficher le cahier de texte.
 
-![](.gitbook/assets/7vue_calendaire_viesco%20%281%29.png)
+![](<.gitbook/assets/7vue\_calendaire\_viesco (1).png>)
 
 ## Profil Parents et élèves
 
@@ -144,31 +144,30 @@ Les parents et élèves peuvent accéder au module cahier de texte pour y consul
 
 ## Profil Parents et élèves - Vue liste
 
-![](.gitbook/assets/8vue_liste%20%281%29.png)
+![](<.gitbook/assets/8vue\_liste (1).png>)
 
 La vue par défaut des profils Parents et élèves est **une vue liste qui proposent les prochains devoirs à faire** sur les 15 jours à venir.
 
 Il est toutefois possible d'apporter des **modifications** à cette liste à l'aide de différents filtres :
 
-* filtre de **dates modifiables** : il est donc possible de revenir en arrière **\(1\)**
-* **affichage des devoirs à faire uniquement et/ou des séances** **\(2\)**
-* filtre de **discipline** **\(3\)**
+* filtre de **dates modifiables** : il est donc possible de revenir en arrière **(1)**
+* **affichage des devoirs à faire uniquement et/ou des séances** **(2)**
+* filtre de **discipline** **(3)**
 
-En cliquant sur un travail à faire ou une séance, celui-ci se déplie pour dévoiler son contenu mais il est aussi possible de l'afficher en grand en cliquant sur **"Voir"** **\(4\)**.
+En cliquant sur un travail à faire ou une séance, celui-ci se déplie pour dévoiler son contenu mais il est aussi possible de l'afficher en grand en cliquant sur **"Voir"** **(4)**.
 
-Le **profil élève uniquement peut noter le travail comment ayant été effectué** **\(5\)**. Les parents voient juste l'état validé ou non par leur enfant.
+Le **profil élève uniquement peut noter le travail comment ayant été effectué** **(5)**. Les parents voient juste l'état validé ou non par leur enfant.
 
-Si la vue liste n'est pas assez lisible, il est possible pour les profils Parents et élèves de **basculer sur une vue calendaire** **\(6\)**.
+Si la vue liste n'est pas assez lisible, il est possible pour les profils Parents et élèves de **basculer sur une vue calendaire** **(6)**.
 
 ## Profil Parents et élèves - Vue calendaire
 
 Cette vue propose l'emploi du temps de l'élève. Avec un jeu de couleur, il est facilement aisé de voir les séances remplies ou les devoirs à effectuer.
 
-![](.gitbook/assets/8vue_calendaire_eleve%20%281%29.png)
+![](<.gitbook/assets/8vue\_calendaire\_eleve (1).png>)
 
 Légende des couleurs :
 
 * **vert** : une séance a été saisie
 * **orange** : un travail à faire a été saisi pour ce créneau
 * **vert et orange** : une séance et un ou plusieurs devoirs ont été saisis sur ce créneau
-
