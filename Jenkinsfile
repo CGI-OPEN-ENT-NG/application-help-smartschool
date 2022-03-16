@@ -13,9 +13,10 @@ pipeline {
             for app in `find ./application -type f -name '*.md' | cut -d. -f2 | cut -d'/' -f3 | cat`; 
             do
                 mkdir "application/$app"
-                sed -i 's/!\\[.*\\](\\.gitbook\\(.*\\))/![](\\1)/g' application/${app}.md
-                sed -i '1d' application/${app}.md
-                sed -i -e '/{%.*%}/d' application/${app}.md
+		 # remove the ".gitbook" prefix for images path in markdown files
+                sed -i -E 's/(!\\[.*\\]\\(<?)\\.gitbook/\\1/g' application/${app}.md
+		sed -i '1d' application/${app}.md
+		sed -i -e '/{%.*%}/d' application/${app}.md
                 sed -i 's/\\(##.*\\){#.*}/\\1/g' application/${app}.md
                 docker-compose run --rm pandoc -s --toc --section-divs -f markdown -t html /application/${app}.md -o /application/${app}/index.html
                 echo "Processed $app"
