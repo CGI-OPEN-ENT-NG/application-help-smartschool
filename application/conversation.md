@@ -107,7 +107,7 @@ En revenant à la liste de vos messages dans la rubrique « Boîte de réception
 
 ## Répondre, transférer, classer et supprimer un message
 
-Lorsque vous avez cliquez sur le titre d’un message, vous accédez à son contenu. Le bouton « répondre » en haut à droite vous permet de répondre à l’émetteur du message.
+Lorsque vous avez cliqué sur le titre d’un message, vous accédez à son contenu. Le bouton « répondre » en haut à droite vous permet de répondre à l’émetteur du message.
 
 ![](<.gitbook/assets/messagerie-6-1 (2).png>)
 
